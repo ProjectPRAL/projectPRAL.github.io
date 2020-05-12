@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACD,SAAS,EAAE,IAAI;;AAEnB,yBAA0B;EACtB,IAAK;IACH,SAAS,EAAE,IAAI;AAGrB,WAAY;EACR,gBAAgB,EAAE,kBAAqB",
+"sources": ["../SCSS/Todas.scss"],
+"names": [],
+"file": "todas.css"
+}
