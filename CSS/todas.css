@@ -1,0 +1,55 @@
+body {
+  font-family: 'Nunito', sans-serif; }
+
+html {
+  font-size: 15px; }
+
+.logo {
+  width: 270px;
+  height: auto; }
+
+@media (min-width: 768px) {
+  html {
+    font-size: 17px; }
+
+  .ola {
+    height: 8rem;
+    width: 100%; }
+
+  .logo {
+    width: 325px;
+    height: auto; } }
+.bg-primary {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #b1d4e6), to(#F1F9FC)) !important;
+  background: linear-gradient(#b1d4e6 50%, #F1F9FC) !important; }
+
+.bg-fondo {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, white), to(#F1F9FC));
+  background: linear-gradient(white 50%, #F1F9FC); }
+
+.bg-secondary {
+  background-color: #57c1eb !important;
+  border-color: #57c1eb !important; }
+
+.btn-info {
+  background-color: #35A8E0 !important; }
+
+.footer {
+  position: relative;
+  top: -2px; }
+
+.text-info {
+  color: #3533cf !important; }
+
+.appWhatsapp {
+  position: fixed;
+  left: 15px;
+  bottom: 20px;
+  width: 65px;
+  z-index: 1000; }
+
+.appWhatsapp img {
+  width: 100%;
+  height: auto; }
+
+/*# sourceMappingURL=todas.css.map */
