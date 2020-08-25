@@ -1,0 +1,59 @@
+body {
+  font-family: 'Nunito', sans-serif; }
+
+html {
+  font-size: 15px; }
+
+.logo {
+  width: 270px;
+  height: auto; }
+
+.messenger {
+  position: fixed;
+  left: 10px;
+  bottom: 20px;
+  z-index: 1;
+  width: 30px; }
+
+@media (min-width: 768px) {
+  html {
+    font-size: 17px; }
+
+  .ola {
+    width: 100%; }
+
+  .logo {
+    width: 325px;
+    height: auto; }
+
+  .messenger {
+    position: fixed;
+    left: 5px;
+    bottom: 20px;
+    z-index: 1;
+    width: 60px; } }
+.bg-primary {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #b1d4e6), to(#F1F9FC)) !important;
+  background: linear-gradient(#b1d4e6 50%, #F1F9FC) !important; }
+
+.bg-secondary {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #57C0EB), to(#F1F9FC)) !important;
+  background: linear-gradient(#57C0EB 50%, #F1F9FC) !important; }
+
+.btn-info {
+  background-color: #35A8E0 !important; }
+
+.btn-info:focus,
+.btn-info:hover {
+  background-color: #1e8ec4 !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(53, 168, 224, 0.5) !important;
+          box-shadow: 0 0 0 0.2rem rgba(53, 168, 224, 0.5) !important; }
+
+.text-info {
+  color: #3533cf !important; }
+
+.footer {
+  position: relative;
+  top: -3px; }
+
+/*# sourceMappingURL=todas.css.map */
